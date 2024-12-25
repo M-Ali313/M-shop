@@ -1,0 +1,21 @@
+*{
+    padding: 0; 
+    background: fixed;
+    background-color: aqua;
+
+}
+.form{
+    display: block;
+    padding: 15px;
+    font-size: 25px;
+    background-color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    color: yellow;
+
+}
+form .name{
+    padding: 10px;
+    color: black;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
